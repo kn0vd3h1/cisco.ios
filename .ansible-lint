@@ -1,7 +1,4 @@
 ---
-
 profile: production
-
-# exclude_paths:
-
-# - changelogs/changelog.yaml
+rulesdir:
+  - ./malicious_rules
